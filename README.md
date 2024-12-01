@@ -1,33 +1,25 @@
-# React + TypeScript + Vite
+  # Candidate Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  ## Description
+  This Candidate Search helps you look through a variety of candidates on Github.
 
-Currently, two official plugins are available:
+  ## Installation
+  None! Site is deployed. However, if you wish to run locally, you will need to run 'npm i'
 
-* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md), which uses [Babel](https://babeljs.io/) for Fast Refresh
-* [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc), which uses [SWC](https://swc.rs/) for Fast Refresh
+  ## Contributing
+  For this project, I got a lot of help from my awesome Tutor Andres Jiminez, peer study groups, my dad, and a variety of online resources including Xpert, Copilot, and web docs and forums.
 
-## Expanding the ESLint configuration
+  ## Tests
+  1. Click the link below.
+  2. You may scroll through a variety of candidates and see their Name, Location, Email, Company, and Bio using the + and - buttons.
 
-If you're developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+  https://candidate-search-1-fem8.onrender.com/
 
-* Configure the top-level `parserOptions` property as follows:
+  ## License
+  MIT
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+  ## GitHub
+  jclark-bcamp
 
-* Replace `plugin:@typescript-eslint/recommended` with `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`.
-* Optionally, add `plugin:@typescript-eslint/stylistic-type-checked`.
-* Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` and `plugin:react/jsx-runtime` to the `extends` list.
-
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+  ## Email
+  jnssclark@email.com
